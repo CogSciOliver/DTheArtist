@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DTheArtist
-- 👀 I’m interested in UI/UX Design, 3D Unreal Engine, Motion Graphics and Game Developement 
-- 🌱 I’m currently learning Python, AR, XR
+- 👀 I’m interested in UI/UX Design, 3D modeling, Unity & Unreal Engine, Motion Graphics, Game Developement, Edutainment, Mixed Reality MR Training and Entertainment 
+- 🌱 I’m currently learning Python, AR, XR, C#
 - 💞️ I’m looking to collaborate on 3D Projects and Film 
 - 📫 How to reach me follow on Twitter @DdotTheArtist https://twitter.com/DdotTheArtist
 
