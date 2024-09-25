@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @DTheArtist
-- 👀 I’m interested in UI/UX Design, 3D modeling, Unity & Unreal Engine, Motion Graphics, Game Developement, Edutainment, Mixed Reality MR Training and Entertainment 
-- 🌱 I’m currently learning Python, AR, XR, C#
-- 💞️ I’m looking to collaborate on 3D Projects and Film 
-- 📫 How to reach me follow on Twitter @DdotTheArtist https://twitter.com/DdotTheArtist
-
-<!---
-DTheArtist/DTheArtist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Saas Paas Product Design and Launch
+- Passionate about UI/UX Design, 3D modeling, Unity & Unreal Engine, Motion Graphics, Game Developement, Edutainment, Mixed Reality MR Training and Entertainment 
+- 🌱 I’m currently learning AWS, Python, VR, Strategic Leadership, C#
+- 💞️ I’m looking to collaborate on 3D Projects and VR Films 
+- 📫 To reach me, follow on Linkedin https://www.linkedin.com/in/daniioliver/
