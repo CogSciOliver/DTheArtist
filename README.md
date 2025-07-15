@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DTheArtist
-- 👀 I’m interested in the responsiblities and products CTO, CPO and CAIO are able to bring to Market. 
-- Passionate about Technology for fun, work, play and moneyah!
-- 🌱 I’m currently learning AWS, C#. Reminding myself I know Python. A Graduate of Strategic Leadership Training.  
-- 💞️ I’m looking to collaborate on Chi'Va a mental performance platform I am building until my 15+ years of Software Engineering makes me worthy of getting a job (hahahahaha!)
+- 🌱 I’m currently in Harvard CS50. 
+- 👀 Founder & CAIO at Chi'Va www.chivaapp.com
+- ♟️ A Graduate of Strategic Leadership Training with Mentor Prof G. 
+- 💻 Passionate about Technology for fun, work, play and moneyah!
 - 📫 To reach me, follow on Linkedin https://www.linkedin.com/in/daniioliver/
