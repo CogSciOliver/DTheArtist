@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DTheArtist
-- 🌱 I’m currently in Harvard CS50. 
+- 👋 Hi, I’m @CogSciOliver
+- 🌱 I’m currently in Harvard CS50. Exploring Cognitive Science.
 - 👀 Founder & CAIO at Chi'Va www.chivaapp.com
 - ♟️ A Graduate of Strategic Leadership Training with Mentor Prof G. 
 - 💻 Passionate about Technology for fun, work, play and moneyah!
